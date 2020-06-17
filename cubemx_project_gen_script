@@ -1,0 +1,5 @@
+java -jar STM32CubeMX -i
+load STM32MP157CAAx
+project name project1
+project path /home/vikasm/mp157/cubemx_test
+project toolchain "STM32CubeIDE"
